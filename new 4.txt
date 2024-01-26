@@ -1,0 +1,15 @@
+Environment:
+VSTS CI&CD, Build Pipeline, Release pipeline, GIT and GitHub, Kubernetes Administrator, Yaml, 
+Microsoft Azure (IAAS, PAAS, SAAS), Azure Resource Model (Azure Resource Manager),
+ Azure Service Bus and Azure Resource Model PowerShell Scripting, Terraform, Web Sites,
+ IIS, Windows Server 2008/2008R2/2012R2, Azure SQL Server, Azure SQL,
+ Firewalls and Azure Monitoring using AIS and Log analytics workspace
+
+
+
+
+Environment: VSTS CI&CD, Build Pipeline, Release pipeline, GIT and GitHub, Microsoft Azure (IAAS, PAAS, SAAS),
+ Azure Resource Model (Azure Resource Manager), Azure Service Bus and  
+ Azure Resource Model PowerShell Scripting, Terraform, Web Sites,
+ IIS, Windows Server 2008/2008R2/2012R2, Azure SQL Server, Azure SQL, Firewalls, 
+ Migration from on premise to Azure.  

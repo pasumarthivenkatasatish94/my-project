@@ -1,0 +1,65 @@
+Bigquery is a cloud-based data warehousing tool used for analyzing large datasets quickly. Pubsub is a messaging service, Dataflow is a data processing tool, and Cloud Storage is a scalable object storage service.
+
+Bigquery is used for analyzing large datasets quickly
+
+Pubsub is a messaging service used for asynchronous communication between applications
+
+Dataflow is a data processing tool used for batch and stream processing
+
+Cloud Storage is a scalable object storage service used for storing and retrieving data
+
+Previous roles and responsibilities should be discussed in detail, highlighting relevant experience and skills
+
+
+What Does a Google Data Engineer do?
+What Is the Difference Between a Google Data Engineer and a Data Scientist?
+What Is the Typical Google Data Engineer interview Structure?
+How to Prepare for a Google Data Engineer Interview?
+Topics to Prepare for a Google Data Engineer Interview
+Skills Required to Crack Google Data Engineer Interviews
+A Few Sample Google Data Engineer Interview Questions
+6 Google Data Engineer Interview Tips
+FAQs on Google Tech Interviews
+
+
+
+
+
+Explain what Google Cloud Platform Console is.
+Explain what Cloud Storage Client Libraries are.
+Explain what Google Compute Engine is.
+Describe the relationship between Google Compute Engine and Google App Engine.
+Name three methods of Google Compute Engine API authentication.
+Explain what Google BigQuery is.
+Explain what Google Cloud SDK is.
+Explain what Google Cloud APIs are.
+Explain what instances are in GCP.
+Explain what Google Cloud Machine images are.
+Explain the main firewall rules in cloud computing.
+Explain what autoscaling refers to in GCP.
+Explain what a Google Cloud storage bucket is.
+Explain what vertex AI is in Google Cloud.
+Explain what Google Distributed Cloud is.
+Explain what GKE autopilot is.
+Explain what binary authorization refers to in Google Cloud.
+Name some of the main security aspects offered by the cloud.
+Explain what system integrators are.
+Name the main layers in the cloud architecture.
+
+
+
+
+Which method would you use to save applications, software, and drivers with no hardware?
+Which method would you use to create service accounts in Google Cloud?
+Explain the method you would use to create projects in GCP.
+Explain the approach you would use to distinguish between project numbers and IDs.
+If you accidentally delete an instance, would you be able to retrieve it?
+Name three options for installation for Google Cloud SDK.
+Explain how you would access a Google Cloud API.
+Explain how you would view past transactions in the GCP.
+How would you guarantee data security when transferring it?
+What would you use EUCALYPTUS for in cloud computing?
+
+
+
+

@@ -1,0 +1,11 @@
+list-of-smartphones-2011.txt
+
+sed '/^$/d' sed '/^$/d' <input-file>
+list-of-smartphones-2011.txt
+
+sed '/^$/d' list-of-smartphones-2011.txt
+
+echo "LINE" | sed '/^$/d' list-of-smartphones-2011.txt
+echo "$VAR" | sed '/^$/d'
+# POSIX syntax #
+sed '/^[[:space:]]*$/d' list-of-smartphones-2011.txt

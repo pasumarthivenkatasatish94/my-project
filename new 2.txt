@@ -1,0 +1,117 @@
+Responsibilities:
+• As we have team of 8 we have been allocated 50 helm charts 
+• Tools we are using are Kubernetes Helm charts, GitLab, GitHub, Jira, carvel tools Kapp, YTT 
+templates, packaging & testing
+• We install the charts with helm & test the charts sanity and convert them into helm chart 
+with carvel tools. 
+• Make those charts to complete packaging with carvel tools.
+• Will push the source code to GitLab and observe the job in CI/CD pipelines.
+• Once the CI/CD pipeline is green will send it for client review and get the merge approval & 
+merge the package.
+
+				Environment: Azure DevOps pipelines, GIT, MS Build, PowerShell Script, Sonar Qube, GitHub,
+				Azure VM’s, Azure WebApp, SQL DB.
+
+
+Responsibilities:
+• Managing all phases of build and release activities, dependency management and
+deployment strategy.
+• Handle multiple builds from the Development team, create build and perform
+deployment activities, creating distributed build environments
+• Good experience in configuring the CICD pipeline for dot net And Angular Applications
+(Automate CI & CD pipeline using Azure DevOps & GIT).
+• Designing, implementing and supporting Continuous Integration and Delivery processes.
+• Responsible for GitHub branching and pull request merges.
+• Worked with different teams to setup the different environments Dev, QA and PROD.
+• Coordinated with dev teams and BA teams to perform the pull requests across different
+branches and builds schedule to the environments
+• Creating Docker images, containers, Docker hub and environment creation.
+• Knowledge on Azure Kubernetes service.
+• Implemented the Release practice and responsible for pushing builds into QA /
+UAT /Pre- Production/ Production stages.
+
+
+Responsibilities:
+• Handled software configuration management issues and coordinated with development
+CI/CD tools implementation
+• Actively involved in administration of source control tools.
+• Creating Azure virtual machines as per client requirement.
+• Experience in build & distribution approaches in distributed environment.
+• Get in touch with different teams and implementing Continuous Integration.
+• Source code management with Git by pushing, pulling, creating repositories, commit and
+repository pulling through CI tools. Administration and implementation of GIT.
+• Using VSTS Configured multiple build jobs.
+• Create Azure SQL DB servers and provide secure access to users.
+• Worked on Multiple Azure instances, set the security groups, Azure Load Balancer and Auto
+scaling to design cost effective, fault tolerant and highly availability systems.
+• Supporting developers by creating repositories, staging profiles, staging repositories,
+permissions. • Deploy, configure, and manage test runtime environments.
+• Coordinating with the Development team to fix the Build related issues.
+• Used Jira to track issues and change management 
+
+
+Environment: Azure IAAS, PAAS
+Responsibilities:
+• Migrate VMs form one cloud Services to another cloud Services.
+• Provide the Azure cloud solution architecture to client as per their requirement to setup
+Environment on Azure.
+• Provide Multi Site VPN solution to connect multiple networks in Azure.
+• Configure the VMs in Availability Set to provide higher Availability for VMs.
+• Create and test the Power-Shell script to deploy the VM, Storage, Network and Affinity.
+• Designed Network security group to control inbound access to network interface, VM’s and
+subnets.
+• Configured Azure virtual network, subnets, CIDR address block.
+• Provided high availability for IAAS VM’s using Availability sets.
+• Good exposure on Azure storage accounts (Blob, Queues, Files, Tables).
+• Moving VHD one Azure Account to other Account also managing Managed Disks.
+• Configure and provide the Azure Traffic Manager solution to client for Load
+Balancing, High Availability, and fail-over.
+• Deploy and manage the Azure Services like Cloud Services, Storage, Traffic
+Manager, Networks, Azure AD, Affinity
+
+
+
+Roles and Responsibilities:
+
+•	Daily basis working to deploy and managing the Azure Resources through Azure DevOps.
+•	Having good experience to configuring the Repositories in Azure DevOps.
+•	Experience with automation like terraform to deploying the Azure Resources.
+•	Good expertise to perform the Repository operations with Azure DevOps.
+•	Experience on version control system Git & Git Hub with Azure DevOps.
+•	Good experience to update the code with GitHub commands in Azure DevOps.
+•	Configure and working on tags for Azure Virtual machines.
+•	Hands on experience in writing Azure Resource Manager (ARM) to deploy, update and delete multiple resources in Azure and migrating the on-premises resources to azure with Azure Site Recovery (ARM) and Azure backups.
+•	Design & implement migration strategies for traditional systems on Azure (Lift and shift/ Azure Migrate, other third-party tools)
+•	Managed Kubernetes environments, showcasing expertise in container orchestration and deployment.
+•	Troubleshooting the issues related with Git code & modifying the Git code as per requirement.
+•	Experience on attach & detach the disks to Azure virtual machines.
+•	Deployed Kubernetes clusters with Azure Container Service for efficient CI/CD pipelines.
+•	Working and Managing the Network Security groups for Azure VM's.
+•	Configuring & managing the Virtual network & subnets to Azure Virtual machines.
+•	Experience on patching activity for Azure Virtual machines.
+•	Good experience on troubleshooting the patching relates issue for Azure VM's.
+•	Having good experience on migration related issue with Azure Virtual machines.
+Environment: Azure DevOps, Terraform, GIT, Kubernetes, Docker 
+
+
+Roles and Responsibilities:
+•	Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs and subnets. 
+•	Troubleshoots Azure VM RDP issues and Server’s connectivity issues from Azure Portal
+•	Created Blob storage, created Containers inside and granted access as required.
+•	Experience on Load Balancer, Virtual Network Gateway & Application Gateway
+•	Experience on Fault and Update domains
+•	Provided JIT access to VMs.
+•	Hands on Experience on Backup and Backup restore Azure services using Recovery Services Vault Used Kubernetes to orchestrate the deployment, scaling, and management of Docker Containers.
+•	Created container repository in ACR (Azure) uploaded all necessary images to cloud repositories.
+•	Hands on experience in load balancers, storage accounts, availability set, Azure active directory, resource groups, key vaults etc.
+•	Worked on Configuration of Internal load balancer, load balanced sets and Azure Traffic manager. 
+•	Experience on Resize the VM, Reset Password and Redeploy the VMs
+•	Good experience in configuring the VM’S (Virtual Machine Scale Sets).
+•	Preparing the Custom Build Agent as a part of CI/CD in VSTS
+•	Evaluation Azure VMSS to auto scale up and scale down Azure VM workloads.
+•	Performed Builds for various environments like QA, UAT and production environments.
+•	Used Azure Kubernetes Service to deploy a managed Kubernetes cluster in Azure and created an AKS cluster in the Azure portal.
+•	Hands-on experience in Azure IaaS & PaaS.
+•	Provisioning Data disks to Azure VM’s.
+
+

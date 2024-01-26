@@ -1,0 +1,15 @@
+	
+•	.
+•	.
+•	
+•	Design & implement migration strategies for traditional systems on Azure (Lift and shift/ Azure Migrate, other third-party tools)
+•	Managed Kubernetes environments, showcasing expertise in container orchestration and deployment.
+•	Troubleshooting the issues related with Git code & modifying the Git code as per requirement.
+•	
+•	Deployed Kubernetes clusters with Azure Container Service for efficient CI/CD pipelines.
+•	
+•	Configuring & managing the Virtual network & subnets to Azure Virtual machines.
+•	Experience on patching activity for Azure Virtual  machines.
+•	Good experience on troubleshooting the patching relates issue for Azure VM's.
+•	Having good experience on migration related issue with Azure Virtual machines.
+Environment: Azure DevOps, Terraform, GIT, Kubernetes, Docker 

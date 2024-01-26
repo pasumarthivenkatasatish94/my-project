@@ -1,0 +1,94 @@
+
+
+--  AWS 
+
+ -->>  L2 support 
+ 
+ --  prsently working on synechron 
+ 
+ --  IAAS -- 1.  creating instances  in GCP 
+             2. managing the instances / dsks / snapshots  upon taht restoring teh virtual machines 
+			 
+	
+  IAM  -- creating   user 
+
+  vpc / vpc peering / route 3 configuration  
+
+route 53  --  configurations zones 
+
+
+IAAS related experience  
+
+
+
+1.  difference between security groups and Acl   scenario 
+
+2.SG -->> we do it on instance level  inbound and outbound rules 
+
+3. ACL  --  we can configure it on the subnet level 
+
+
+Customised IAM policies  --- >> 
+
+
+   IAM structure  --
+                          ----  groups  l1  --  view  --  event generated 
+                                         group l2  -- 
+                                               group l3 
+
+
+Total Exp: 11.3 Years
+Relevant Exp: 3 years in GCP
+Current CTC: 14.25 LPA (FIXED)
+Expected CTC: 20.5 LPA
+Notice Period: IMMediate
+Reason for Job change: Better prospects and career growth
+Interest levels to work on Purview Permanent payroll for HSBC Client Project: yes
+Passport No: N6471444
+Alternate Number: 7032623640 / 9989383640
+Form16(Yes/No): Yes
+PANNO : BLDPP9746D
+All Educational and Employment documents(Yes/No): Yes
+
+please let me know anything else needed from my end  or you can reach me  @ +91-9989383640
+
+Experience using Continuous Integration tools e.g. Jenkins, GitLab CI,  CodePipeline etc.
+2.Experience in Continuous Deployment tools such as Ansible, Chef, Azure DevOps, AWS CloudDeploy etc.
+3.Experience in Infrastructure as Code tools like Terraform, AWS CloudFormation, ARM etc.
+4.Experience in scripting tools such as Shell scripting, Bash scripting, PowerShell etc
+5.Experience in working with Docker containers, orchestrating using Kubernetes, manage nodes/pods/workloads, using container registry AWS EKS, Azure AKS etc.
+6.Experience in MSI, Window packaging tools to package application / dlls in single deployable file (.msi)
+7.Experience packaging application libraries in NPM, Maven, NuGet, creating and using feeds
+8.Experience with source control management tools such as Git and SVN, working knowledge on Git workflows
+9.Experience with Artefacts management tools such as Nexus, JFrog Artifactory etc.
+10.Experience in developing CI/CD pipeline involving docker containers, continuously improving existing pipelines for better automation, considering different environment stages
+11.Able to execute Test Automation written in Selenium, JUnit, Python or API testing tools like PostMan, SoapUI,
+-This will be considered as good to have.
+12.Able to build required machinery and enablers to support Product development team.
+13.Experience in building monitoring tools for deployed software such as Prometheus, AWS CloudWatch, CloudTrail etc.
+14.Experience in working with Kibana, Grafana for producing great dashboards & analytics with charts, graphs etc.
+15.Experience using tools such as JIRA, SM9, HPQC, Confluence, OpsGenie, Jira Service Desk
+16.Experience in Build tools Maven, NPM, Webpack, MS Build
+17.Experience with Windows & Linux environments
+Behaviour skills -
+1.Strong problem solving and analytical skills.
+2.Must possess a willingness and aptitude to embrace new ideas and master concepts rapidly
+3.Must be a team player and have Strong attention-to-detail
+4.Experience in working with Agile team with Agile mindset
+5.Well versed with programming knowledge, ability to learn new technologies and sharing it with team.
+6.Excellent written and communication skills
+7.Independent worker with ability to take on technical solution responsibilities
+
+
+
+ The grep command is another powerful text manipulation tool that can be used to remove blank lines from a file
+ 
+ to remove the lines from file A that appear in file B. --- 	grep -v -f fileB.txt fileA.txt > outputFile.txt 
+															--  sed -i '/$(grep -f fileB.txt fileA.txt)/d' fileA.txt
+															---   join -v 1 fileA_sorted.txt fileB_sorted.txt > outputFile.txt
+															
+															
+															
+															
+															
+															
